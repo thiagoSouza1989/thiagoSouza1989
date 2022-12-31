@@ -1,4 +1,7 @@
 ## Bem-vindo(a) ao meu perfil 😁
+# quem-sou-eu
+# 💫 About Me:
+Olá! Sou o Thiago e trabalho com programação de torno CNC há mais de uma década. No momento estou aprendendo html, css e java script, mas pretendo fazer vários cursos da área de programação para poder migrar de profissão.
 
  <div>
    <a href="https://github.com/thiagosouza1989">
